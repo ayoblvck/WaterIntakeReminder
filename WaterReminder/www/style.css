@@ -1,0 +1,38 @@
+body{
+  background-color: #659DBD;
+}
+
+h2 {
+  text-align: center;
+  border-bottom: 1px solid orange;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #659DBD;
+    color: white;
+}
+
+.progress-bar{
+  background-color: #05386b ;
+}
+
+p.head_message {
+  text-align : center;
+  font-size: 30px;
+}
+
+.btn-default {
+  margin-bottom: 10px;
+}
+
+ button#share_button {
+    margin-left: 50px;
+}
+
+img.gif_image {
+    height: 15rem;
+    margin-left: 10px;
+    margin-top: 10px;
+}

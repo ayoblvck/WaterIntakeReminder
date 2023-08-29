@@ -1,0 +1,13 @@
+name: waterreminder
+title:
+username: g1jlo3-maryam-sanni
+account: g1jlo3-maryam-sanni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9666534
+bundleId: 7623116
+url: https://g1jlo3-maryam-sanni.shinyapps.io/waterreminder/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: deploy.R|water_intake_data.csv
